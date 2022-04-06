@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Vajro</string>
+    <string name="products">Products</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="my_cart">My cart</string>
+    <string name="pincode">Deliver to: Chennai - 600100</string>
+    <string name="change">Change</string>
+    <string name="place_order">Place Order</string>
+    <string name="discount">Discount</string>
+    <string name="you_will_save_200_on_this_order">You will save 200 on this order</string>
+    <string name="delivery_in_2_days_thu">Delivery in 2 days, Thu |</string>
+    <string name="remove">Remove</string>
+    <string name="rupee">\u20B9</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="cart_is_empty">Cart is empty</string>
+</resources>
